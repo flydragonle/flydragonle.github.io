@@ -109,6 +109,13 @@
   </url>
   
   <url>
+    <loc>https://www.52elong.com/tags/course/</loc>
+    <lastmod>2023-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.52elong.com/tags/Typora/</loc>
     <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
@@ -123,13 +130,6 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/course/</loc>
-    <lastmod>2023-12-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.com/tags/music/</loc>
     <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
@@ -137,14 +137,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/Android/</loc>
+    <loc>https://www.52elong.com/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <loc>https://www.52elong.com/tags/Android/</loc>
     <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -160,14 +160,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/Markdown/</loc>
+    <loc>https://www.52elong.com/categories/course/</loc>
     <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/course/</loc>
+    <loc>https://www.52elong.com/categories/Markdown/</loc>
     <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
