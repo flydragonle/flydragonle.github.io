@@ -116,13 +116,6 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/%E5%BA%94%E7%94%A8%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.com/tags/Typora/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
@@ -137,7 +130,7 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/course/</loc>
+    <loc>https://www.52elong.com/tags/%E5%BA%94%E7%94%A8-course/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -152,6 +145,13 @@
   
   <url>
     <loc>https://www.52elong.com/tags/Android/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/tags/course/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -174,14 +174,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <loc>https://www.52elong.com/categories/Markdown/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/Markdown/</loc>
+    <loc>https://www.52elong.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
