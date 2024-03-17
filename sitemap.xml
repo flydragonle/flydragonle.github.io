@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.52elong.com/2021/08/19/4-yong-you-zhi-neng-chong-dian-zhuan-shu-gong-neng/</loc>
+    <loc>https://www.52elong.com/2021/06/23/blogtest1/</loc>
     
     <lastmod>2024-03-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.52elong.com/2021/06/23/blogtest1/</loc>
+    <loc>https://www.52elong.com/2021/08/19/4-yong-you-zhi-neng-chong-dian-zhuan-shu-gong-neng/</loc>
     
     <lastmod>2024-03-17</lastmod>
     
@@ -123,7 +123,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/Typora/</loc>
+    <loc>https://www.52elong.com/tags/course/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/tags/music/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -137,14 +144,7 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/course/</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.52elong.com/tags/music/</loc>
+    <loc>https://www.52elong.com/tags/Typora/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -181,14 +181,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/Markdown/</loc>
+    <loc>https://www.52elong.com/categories/course/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/course/</loc>
+    <loc>https://www.52elong.com/categories/Markdown/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
