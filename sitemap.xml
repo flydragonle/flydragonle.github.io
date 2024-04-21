@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.52elong.com/shop/index.html</loc>
+    <loc>https://www.52elong.com/Shop/index.html</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -123,13 +123,6 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/application-course/</loc>
-    <lastmod>2024-04-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.com/tags/Typora/</loc>
     <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
@@ -138,6 +131,13 @@
   
   <url>
     <loc>https://www.52elong.com/tags/Markdown/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/tags/application-course/</loc>
     <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -181,14 +181,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/AI/</loc>
+    <loc>https://www.52elong.com/categories/Markdown/</loc>
     <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/Markdown/</loc>
+    <loc>https://www.52elong.com/categories/AI/</loc>
     <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
