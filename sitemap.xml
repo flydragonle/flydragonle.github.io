@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.52elong.com/shop/index.html</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.52elong.com/2021/06/23/blogtest1/</loc>
     
     <lastmod>2024-03-17</lastmod>
@@ -102,7 +109,7 @@
 
   <url>
     <loc>https://www.52elong.com/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,56 +117,56 @@
   
   <url>
     <loc>https://www.52elong.com/tags/It/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/application-course/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/Typora/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/Markdown/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/course/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/music/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/Android/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -168,28 +175,28 @@
   
   <url>
     <loc>https://www.52elong.com/categories/Pterodactyl/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/categories/AI/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/categories/Markdown/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.52elong.com/categories/course/</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
