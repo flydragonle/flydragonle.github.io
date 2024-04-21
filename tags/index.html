@@ -131,11 +131,25 @@
   <li class="hide-on-med-and-down nav-item">
     
     <a href="/categories" class="waves-effect waves-light">
+
       
       <i class="fas fa-bookmark" style="zoom: 0.6;"></i>
       
       <span>Categories</span>
+      <i class="fas fa-chevron-down" aria-hidden="true" style="zoom: 0.6;"></i>
     </a>
+    <ul class="sub-nav menus_item_child ">
+      
+      <li>
+        <a href="/Shop">
+          
+          <i class="fas fa-image" style="margin-top: -20px; zoom: 0.6;"></i>
+          
+          <span>Shop</span>
+        </a>
+      </li>
+      
+    </ul>
     
   </li>
   
@@ -296,12 +310,26 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/categories" class="waves-effect waves-light">
+		<a href="javascript:;">
 			
-			    <i class="fa-fw fas fa-bookmark"></i>
+				<i class="fa-fw fas fa-bookmark"></i>
 			
 			Categories
+			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
 		</a>
+            <ul  style="background:  ;" >
+              
+                <li>
+
+                  <a href="/Shop " style="margin-left:75px">
+				  
+				   <i class="fa fas fa-image" style="position: absolute;left:50px" ></i>
+			      
+		          <span>Shop</span>
+                  </a>
+                </li>
+              
+            </ul>
           
         </li>
         
@@ -554,10 +582,19 @@
                 </a>
                 
                 
+                <a href="/tags/application-course/" title="application - course: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="application - course" style="background-color: #F5EEF8;">application - course
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
                 <a href="/tags/Typora/" title="Typora: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="Typora" style="background-color: #F5EEF8;">Typora
+                            data-tagname="Typora" style="background-color: #D5F5E3;">Typora
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -566,17 +603,8 @@
                 <a href="/tags/Markdown/" title="Markdown: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="Markdown" style="background-color: #D5F5E3;">Markdown
+                            data-tagname="Markdown" style="background-color: #E8F8F5;">Markdown
                         <span class="tag-length">2</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/tags/application-course/" title="application - course: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            data-tagname="application - course" style="background-color: #E8F8F5;">application - course
-                        <span class="tag-length">1</span>
                     </span>
                 </a>
                 
@@ -640,7 +668,7 @@
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"It","weight":1,"link":"/tags/It/"},{"text":"Typora","weight":1,"link":"/tags/Typora/"},{"text":"Markdown","weight":2,"link":"/tags/Markdown/"},{"text":"application - course","weight":1,"link":"/tags/application-course/"},{"text":"course","weight":1,"link":"/tags/course/"},{"text":"music","weight":1,"link":"/tags/music/"},{"text":"Android","weight":1,"link":"/tags/Android/"},{"text":"音乐","weight":1,"link":"/tags/音乐/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"It","weight":1,"link":"/tags/It/"},{"text":"application - course","weight":1,"link":"/tags/application-course/"},{"text":"Typora","weight":1,"link":"/tags/Typora/"},{"text":"Markdown","weight":2,"link":"/tags/Markdown/"},{"text":"course","weight":1,"link":"/tags/course/"},{"text":"music","weight":1,"link":"/tags/music/"},{"text":"Android","weight":1,"link":"/tags/Android/"},{"text":"音乐","weight":1,"link":"/tags/音乐/"}], {
         autoResize: true
     });
 </script>

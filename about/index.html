@@ -131,11 +131,25 @@
   <li class="hide-on-med-and-down nav-item">
     
     <a href="/categories" class="waves-effect waves-light">
+
       
       <i class="fas fa-bookmark" style="zoom: 0.6;"></i>
       
       <span>Categories</span>
+      <i class="fas fa-chevron-down" aria-hidden="true" style="zoom: 0.6;"></i>
     </a>
+    <ul class="sub-nav menus_item_child ">
+      
+      <li>
+        <a href="/Shop">
+          
+          <i class="fas fa-image" style="margin-top: -20px; zoom: 0.6;"></i>
+          
+          <span>Shop</span>
+        </a>
+      </li>
+      
+    </ul>
     
   </li>
   
@@ -296,12 +310,26 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/categories" class="waves-effect waves-light">
+		<a href="javascript:;">
 			
-			    <i class="fa-fw fas fa-bookmark"></i>
+				<i class="fa-fw fas fa-bookmark"></i>
 			
 			Categories
+			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
 		</a>
+            <ul  style="background:  ;" >
+              
+                <li>
+
+                  <a href="/Shop " style="margin-left:75px">
+				  
+				   <i class="fa fas fa-image" style="position: absolute;left:50px" ></i>
+			      
+		          <span>Shop</span>
+                  </a>
+                </li>
+              
+            </ul>
           
         </li>
         
@@ -778,7 +806,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"Pterodactyl","value":2},{"name":"Markdown","value":2},{"name":"AI","value":1},{"name":"course","value":2}],
+                data: [{"name":"Pterodactyl","value":2},{"name":"AI","value":1},{"name":"Markdown","value":2},{"name":"course","value":2}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -802,7 +830,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["Markdown","It","Typora","application - course","course","music","Android","音乐"]
+                data: ["Markdown","It","application - course","Typora","course","music","Android","音乐"]
             }
         ],
         yAxis: [
@@ -991,6 +1019,12 @@
             
             
             
+            <a href="/tags/application-course/">
+                <span class="chip center-align waves-effect waves-light chip-default">application - course</span>
+            </a>
+            
+            
+            
             <a href="/tags/Typora/">
                 <span class="chip center-align waves-effect waves-light chip-default">Typora</span>
             </a>
@@ -999,12 +1033,6 @@
             
             <a href="/tags/Markdown/">
                 <span class="chip center-align waves-effect waves-light chip-default">Markdown</span>
-            </a>
-            
-            
-            
-            <a href="/tags/application-course/">
-                <span class="chip center-align waves-effect waves-light chip-default">application - course</span>
             </a>
             
             
