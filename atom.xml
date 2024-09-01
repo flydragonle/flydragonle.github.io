@@ -6,7 +6,7 @@
   <link href="https://www.52elong.com/atom.xml" rel="self"/>
   
   <link href="https://www.52elong.com/"/>
-  <updated>2024-03-17T08:54:20.166Z</updated>
+  <updated>2024-09-01T11:20:53.535Z</updated>
   <id>https://www.52elong.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Godot</title>
+    <link href="https://www.52elong.com/2024/09/01/godot/"/>
+    <id>https://www.52elong.com/2024/09/01/godot/</id>
+    <published>2024-09-01T11:20:53.000Z</published>
+    <updated>2024-09-01T11:20:53.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>The steps to create an npm image bed are as follows</title>
