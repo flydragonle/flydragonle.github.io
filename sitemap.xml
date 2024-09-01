@@ -130,20 +130,6 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/Typora/</loc>
-    <lastmod>2024-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.52elong.com/tags/Markdown/</loc>
-    <lastmod>2024-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.com/tags/application-course/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>daily</changefreq>
@@ -158,7 +144,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/Android/</loc>
+    <loc>https://www.52elong.com/tags/Typora/</loc>
+    <lastmod>2024-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/tags/Markdown/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -166,6 +159,13 @@
   
   <url>
     <loc>https://www.52elong.com/tags/music/</loc>
+    <lastmod>2024-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/tags/Android/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -188,13 +188,6 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/Markdown/</loc>
-    <lastmod>2024-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.com/categories/AI/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>daily</changefreq>
@@ -203,6 +196,13 @@
   
   <url>
     <loc>https://www.52elong.com/categories/course/</loc>
+    <lastmod>2024-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/categories/Markdown/</loc>
     <lastmod>2024-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
