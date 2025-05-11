@@ -116,13 +116,6 @@
 
   
   <url>
-    <loc>https://www.52elong.com/tags/It/</loc>
-    <lastmod>2025-05-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52elong.com/tags/Typora/</loc>
     <lastmod>2025-05-11</lastmod>
     <changefreq>daily</changefreq>
@@ -131,6 +124,13 @@
   
   <url>
     <loc>https://www.52elong.com/tags/Markdown/</loc>
+    <lastmod>2025-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.com/tags/It/</loc>
     <lastmod>2025-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -167,14 +167,14 @@
 
   
   <url>
-    <loc>https://www.52elong.com/categories/Pterodactyl/</loc>
+    <loc>https://www.52elong.com/categories/Markdown/</loc>
     <lastmod>2025-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/categories/Markdown/</loc>
+    <loc>https://www.52elong.com/categories/Pterodactyl/</loc>
     <lastmod>2025-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
