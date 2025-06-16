@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "build-site",
+			"command": "echo 'No build script detected. If you are using a static site, please specify your generator (e.g., hexo, hugo, jekyll) or provide a build command.'",
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}
