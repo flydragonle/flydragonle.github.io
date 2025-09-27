@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.52elong.com/2021/01/07/hello-world/</loc>
+    
+    <lastmod>2025-09-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.52elong.com/2021/09/01/chao-hao-ting-de-gu-feng-ge/</loc>
     
     <lastmod>2023-12-24</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://www.52elong.com/2021/06/23/blogtest1/</loc>
     
     <lastmod>2021-08-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.52elong.com/2021/01/07/hello-world/</loc>
-    
-    <lastmod>2021-08-18</lastmod>
     
   </url>
   
@@ -137,14 +137,14 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/Android/</loc>
+    <loc>https://www.52elong.com/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.com/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <loc>https://www.52elong.com/tags/Android/</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
