@@ -490,7 +490,8 @@
 
 </header>
 
-    <div class="bg-cover pd-header about-cover">
+    
+<div class="bg-cover pd-header about-cover">
     <div class="container">
     <div class="row">
     <div class="col s10 offset-s1 m8 offset-m2 l8 offset-l2">
@@ -523,8 +524,12 @@
 </div>
 
 <main class="content">
-
-    
+    <div class="container">
+        <div class="row">
+            <!-- 左侧：分类标签 -->
+            <div class="col s12 m5 l4" style="border-right:1px solid #eee;">
+                <h5 class="center-align" style="margin-top:1em;">文章分类</h5>
+                
 
 <div id="category-cloud" class="container chip-container">
     <div class="card">
@@ -568,9 +573,22 @@
     </div>
 </div>
 
-
-    
-    <style type="text/css">
+            </div>
+            <!-- 右侧：分类说明 -->
+            <div class="col s12 m7 l8">
+                <h5 class="center-align" style="margin-top:1em;">分类说明</h5>
+                <div style="padding:1em 2em;">
+                    <ul>
+                        <li><b>前端开发：</b> 记录与前端相关的技术、框架、工具等内容。</li>
+                        <li><b>后端开发：</b> 涉及服务器、数据库、API等后端知识。</li>
+                        <li><b>学习笔记：</b> 学习过程中的总结、心得与资料整理。</li>
+                        <li><b>生活随笔：</b> 记录生活点滴、感悟与分享。</li>
+                        <li><b>其它分类：</b> 站内未归类的内容。</li>
+                    </ul>
+                    <p style="color:#888;">如需了解更多，请点击左侧分类标签浏览相关文章。</p>
+                </div>
+                
+                <style type="text/css">
     #category-radar {
         width: 100%;
         height: 360px;
@@ -626,8 +644,10 @@
     radarChart.setOption(option);
 </script>
 
-    
-
+                
+            </div>
+        </div>
+    </div>
 </main>
 
 
